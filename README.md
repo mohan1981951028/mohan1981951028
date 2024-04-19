@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohan krishna reddy
-- 👀 I’m interested in coding skikks whhere i can enhance my knowledge to have more projects
+- 👀 I’m interested in coding skills whhere i can enhance my knowledge to have more projects
 - 🌱 I had completed my graduation in Dr.B.R.Ambedkar university,srikakulam
 -  In stream of Computer science and engineering
 - 💞️ my skills are JAVA,Javascript,MySQL,HTML,CSS,Python
